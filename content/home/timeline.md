@@ -11,11 +11,11 @@ item:
   - title: Early Submission Deadline
     weigth: 1
     item:
-      - title: Abstract Deadline
+      - title: Abstract Deadline (extended)
         url: 'https://new.precisionconference.com'
         date_start: '2022-12-16'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
-      - title: Paper Deadline
+      - title: Paper Deadline (extended)
         date_start: '2022-12-23'
       - title: Notification of Acceptance
         date_start: '2023-01-24'
@@ -24,11 +24,11 @@ item:
   - title: Regular Submission Deadline
     weigth: 2
     item:
-      - title: Abstract Deadline
+      - title: Abstract Deadline (extended)
         url: 'https://new.precisionconference.com'
         date_start: '2023-03-03'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
-      - title: Paper Deadline
+      - title: Paper Deadline (extended)
         date_start: '2023-03-10'
       - title: Notification of Acceptance
         date_start: '2023-04-05'
