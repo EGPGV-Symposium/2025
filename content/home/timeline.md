@@ -29,7 +29,7 @@ item:
         date_start: '2023-03-03'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper Deadline (extended)
-        date_start: '2023-03-10'
+        date_start: '2023-03-13'
       - title: Notification of Acceptance
         date_start: '2023-04-05'
     #   - title: Camera Ready Version Due
