@@ -1,0 +1,27 @@
+name: Publish Page
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install hugo 1
+      run: sudo apt install -y golang
+    - name: Install hugo 2
+      run: GOBIN=~/ CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@v0.97.3
+    - name: Create static page
+      run: ~/hugo --minify -d ./docs/
+    - name: Commit page
+      run: |
+        git config user.email "papers@egpgv.org"
+        git config user.name "EGPGV-Hugo-Bot"
+        git add ./docs
+        git commit -m "Publish static page."
+        git push
