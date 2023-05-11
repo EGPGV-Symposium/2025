@@ -30,6 +30,7 @@ organizers:
           affiliation: University of Stuttgart, Germany
           weight: 1
     - title: INTERNATIONAL PROGRAM COMMITTEE
+      weight: 4
       item:
         - title: Hank Childs
           affiliation: University of Oregon, United States
