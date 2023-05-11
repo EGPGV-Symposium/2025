@@ -32,53 +32,54 @@ organizers:
     - title: INTERNATIONAL PROGRAM COMMITTEE
       item:
         - title: Hank Childs
-        affiliation: University of Oregon, United States
+          affiliation: University of Oregon, United States
         - title: Jean-Michel Dischler
-        affiliation: University of Strasbourg, France
+          affiliation: University of Strasbourg, France
         - title: Mario Hlawitschka
-        affiliation: Leipzig University of Applied Sciences, Germany
+          affiliation: Leipzig University of Applied Sciences, Germany
         - title: Renato Pajarola
-        affiliation: University of Zürich, Switzerland
+          affiliation: University of Zürich, Switzerland
         - title: Chaoli Wang 
-        affiliation: University of Notre Dame, United States
+          affiliation: University of Notre Dame, United States
         - title: Markus Flatken
-        affiliation: German Aerospace Center Braunschweig, Germany
+          affiliation: German Aerospace Center Braunschweig, Germany
         - title: Sudhanshu Sane
-        affiliation: Luminary Cloud, United States
+          affiliation: Luminary Cloud, United States
         - title: Federico Iuricich
-        affiliation: Clemson University, United States
+          affiliation: Clemson University, United States
         - title: Ingo Wald
-        affiliation: NVIDIA, United States
+          affiliation: NVIDIA, United States
         - title: Tobias Günther
-        affiliation: Friedrich-Alexander-University Erlangen-Nürnberg, Germany
+          affiliation: Friedrich-Alexander-University Erlangen-Nürnberg, Germany
         - title: Patrick Gralka
-        affiliation: University of Stuttgart, Germany
+          affiliation: University of Stuttgart, Germany
         - title: Peter Lindstrom
-        affiliation: Lawrence Livermore National Laboratory, United States
+          affiliation: Lawrence Livermore National Laboratory, United States
         - title: Paul Rosen
-        affiliation: University of Utah, United States
+          affiliation: University of Utah, United States
         - title: Berk Geveci
-        affiliation: Kitware Inc., United States
+          affiliation: Kitware Inc., United States
         - title: Jonathan Sarton
-        affiliation: Université de Strasbourg, France
+          affiliation: Université de Strasbourg, France
         - title: Divya Banesh
-        affiliation: Los Alamos National Laboratory, United States
+          affiliation: Los Alamos National Laboratory, United States
         - title: Jens Krueger
-        affiliation: University of Duisburg-Essen, Germany
+          affiliation: University of Duisburg-Essen, Germany
         - title: Paul Navrátil
-        affiliation: Texas Advanced Computing Center, United States
+          affiliation: Texas Advanced Computing Center, United States
         - title: Christina Gillmann
-        affiliation: Universität Leipzig, Germany
+          affiliation: Universität Leipzig, Germany
         - title: Helen-Nicole Kostis
-        affiliation: National Aeronautics and Space Administration, United States
+          affiliation: National Aeronautics and Space Administration, United States
         - title: Andrea Schnorr
-        affiliation: RPTU Kaiserslautern-Landau, Germany
+          affiliation: RPTU Kaiserslautern-Landau, Germany
         - title: Charles Gueunet
-        affiliation: Kitware SAS, France
+          affiliation: Kitware SAS, France
         - title: Riccardo Fellegara
-        affiliation: German Aerospace Center Braunschweig, Germany
+          affiliation: German Aerospace Center Braunschweig, Germany
         - title: Jonas Lukasczyk
-        affiliation: RPTU Kaiserslautern-Landau, Germany
+          affiliation: RPTU Kaiserslautern-Landau, Germany
         - title: Will Usher
-        affiliation: Intel, United States
+          affiliation: Intel, United States
+
 ---
