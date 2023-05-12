@@ -11,7 +11,7 @@ experience:
   - title: Opening
     date_start: '2022-06-12T09:00:00'
     date_end: '2022-06-12T09:10:00'
-  - title: 'Keynote<br/><span style="font-size:11.0pt">Session Chair: Roxana Bujack</span>''
+  - title: 'Keynote<br/><span style="font-size:11.0pt">Session Chair: Roxana Bujack</span>'
     date_start: '2022-06-12T09:10:00'
     date_end: '2022-06-12T10:10:00'
     description: |
