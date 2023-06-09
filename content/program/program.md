@@ -24,7 +24,11 @@ experience:
       </span>
       </br>
       <span style="font-size:20px;padding-left:30px;">
-      Title: TBA
+      Title: Rethinking High Performance Data Analysis for the Exascale and Beyond
+      </span>
+      </br>
+      <span style="font-size:18px;padding-left:30px;">
+      Transitioning towards exascale computing exacerbates existing challenges in supercomputing, such as the widening gap between compute power and I/O bandwidth, as well as the need to move to even higher levels of parallel processing. Limitations imposed by I/O bandwidth creates a growing necessity for adopting in situ analysis techniques. Topological data analysis provides a versatile framework to define high-level features across a broad spectrum of simulations and to automate the selection of visualization parameters such as isovalues for isosurface extraction. The global nature of topological methods hinders their parallelization, posing additional difficulties. A fresh perspective on topological data analysis enables the development of novel algorithms that effectively leverage exascale machines. Looking forward and beyond simulations, the need to analyze the ever-increasing volume of experimental and observational provides additional challenges and opportunities for high-performance computing.
       </span>
       </td>
       </tr>
