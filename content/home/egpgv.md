@@ -2,7 +2,7 @@
 widget: egpgv_hero
 headless: true
 weight: 10
-title: WELCOME TO EGPGV 2023
+title: WELCOME TO EGPGV 2024
 hero_media:
 # cta:
 #   label: EuroVis Webpage
@@ -19,9 +19,9 @@ design:
 #   css_class: fullscreen
 ---
 
-Leipzig, Germany, 2023-06-12
+Odense Denmark, 2024-05-27
 
-EGPGV 2023 is co-located with EuroVis 2023.
+EGPGV 2024 is co-located with EuroVis 2024.
 Please find information on the venue, accommodation, and registration on
 
 <!--Custom spacing-->

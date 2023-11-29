@@ -11,23 +11,23 @@ organizers:
     - title: SYMPOSIUM CHAIR
       weight: 1
       item:
-        - title: Roxana Bujack
-          affiliation: Los Alamos National Laboratory, USA
+        - title: David Pugmire
+          affiliation: Oak Ridge National Laboratory, USA
           weight: 1
     - title: PROGRAM CO-CHAIR
       weight: 2
       item:
-        - title: David Pugmire
-          affiliation: Oak Ridge National Laboratory, USA 
-          weight: 1
         - title: Guido Reina
           affiliation: University of Stuttgart, Germany
+          weight: 1
+        - title: Silvio Rizzi
+          affiliation:  Argonne National Laboratory, USA
           weight: 2
     - title: STUDENT PROGRAM CHAIR
       weight: 3
       item:
-        - title: Patrick Gralka
-          affiliation: University of Stuttgart, Germany
+        - title: James Hammer
+          affiliation: University of Tennessee Knoxville, USA
           weight: 1
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
@@ -52,8 +52,8 @@ organizers:
           affiliation: NVIDIA, United States
         - title: Tobias Günther
           affiliation: Friedrich-Alexander-University Erlangen-Nürnberg, Germany
-        - title: Patrick Gralka
-          affiliation: University of Stuttgart, Germany
+        # - title: Patrick Gralka
+        #   affiliation: University of Stuttgart, Germany
         - title: Peter Lindstrom
           affiliation: Lawrence Livermore National Laboratory, United States
         - title: Paul Rosen
