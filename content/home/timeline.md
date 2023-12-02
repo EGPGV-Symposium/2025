@@ -28,8 +28,8 @@ item:
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper Deadline
         date_start: '2024-03-04'
-      # - title: Notification of Acceptance
-      #   date_start: '2023-04-05'
+      - title: Notification of Acceptance
+        date_start: '2023-03-27'
     #   - title: Camera Ready Version Due
     #     date_start: '2023-04-19'
 ---
