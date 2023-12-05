@@ -9,7 +9,7 @@ The Eurographics Symposium on Parallel Graphics and Visualization (EGPGV) aims t
 
 EGPGV has two submission deadlines: early submission in December and regular submission typically in February. This offers authors the flexibility to choose between two separate submission deadlines. The early submission deadline also provides the opportunity to improve manuscripts and resubmit them to the regular deadline in case they are not successful in the early review phase, resembling a major revision review process. An FAQ about the early submission process can be found [here](../faq/). Please notice also that this year there are again abstract deadlines one week in advance to the paper deadlines.
 
-EGPGV 2024 will take place on May 27, 2024, and be co-located with EuroVis 2024, held May 27-31, 2024, in Leipzig Germany.
+EGPGV 2024 will take place on May 27, 2024, and be co-located with EuroVis 2024, held May 27-31, 2024, in Odense Denmark.
 
 The proceedings of EGPGV will be published in the Eurographics Proceedings Series and in the Eurographics Digital Library.
 
@@ -47,16 +47,16 @@ EGPGV again calls for Full Papers (8 to 10 pages) and Short Papers (up to 4 page
 
 Important Dates:
 
-December 11, 2023 - Early Submission Abstract Deadline
-December 18, 2023 - Early Submission Paper Deadline
-January 23, 2024 - Early Submission Notification
-February 26, 2024 - Regular Submission Abstract Deadline  
-March 4, 2024 - Regular Submission Deadline  
+December 11, 2023 - Early Submission Abstract Deadline\
+December 18, 2023 - Early Submission Paper Deadline\
+January 23, 2024 - Early Submission Notification\
+February 26, 2024 - Regular Submission Abstract Deadline\
+March 4, 2024 - Regular Submission Deadline
 
 For additional information, please contact us via papers@egpgv.org.
 
 EGPGV Leadership:
 
-Symposium Chair: David Pugmire, Oak Ridge National Laboratory, USA 
-Program Co-Chair: Guido Reina, University of Stuttgart, Germany
+Symposium Chair: David Pugmire, Oak Ridge National Laboratory, USA\
+Program Co-Chair: Guido Reina, University of Stuttgart, Germany\
 Program Co-Chair: Silvio Rizzi, Argonne National Laboratory, USA
