@@ -16,7 +16,7 @@ item:
         date_start: '2023-12-11'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper Deadline
-        date_start: '2023-12-18'
+        date_start: '2023-12-25'
       - title: Notification of Acceptance
         date_start: '2024-01-23'
   - title: Regular Submission Deadline
