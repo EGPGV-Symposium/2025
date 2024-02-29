@@ -27,7 +27,7 @@ item:
         date_start: '2024-02-26'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper Deadline
-        date_start: '2024-03-04'
+        date_start: '2024-03-10'
       - title: Notification of Acceptance
         date_start: '2024-04-15'
     #   - title: Camera Ready Version Due

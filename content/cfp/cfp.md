@@ -51,7 +51,7 @@ December 11, 2023 - Early Submission Abstract Deadline\
 December 25, 2023 - Early Submission Paper Deadline\
 January 23, 2024 - Early Submission Notification\
 February 26, 2024 - Regular Submission Abstract Deadline\
-March 4, 2024 - Regular Submission Deadline
+March 10, 2024 - Regular Submission Deadline
 
 For additional information, please contact us via papers@egpgv.org.
 
