@@ -19,6 +19,10 @@ experience:
       <div style="font-size:20px;padding-left:30px;">
       Europe enters the exascale era - what does this mean for visualization?
       </div>
+      </br>
+      <div style="font-size:14px;padding-left:30px;">
+      The next generation of supercomputers in Europe is about to break through the exascale barrier and will provide science with significantly more computing power. At the same time, however, the complexity of the systems is also increasing significantly, and with it the challenges of using the systems successfully. The Jülich Supercomputing Centre is currently preparing specifically for the upcoming EuroHPC exascale system JUPITER in order to quickly enable excellent science, maximize the impact of JUPITER and ensure a smooth start for hardware and software. Of course, this preparation also includes visualization, so that a holistic visualization strategy comes into focus. The challenges for visualization in the exascale age are manifold. Firstly, the sheer volume of data to be processed is a key hurdle. Exascale systems generate data volumes that quickly push conventional storage systems and downstream visualization techniques to their limits. In principle, in-situ / in-transit visualization methods make it possible to analyze and visualize data as it is generated, significantly reducing storage and computing requirements.  However, due to the perceived complexity of this approach, we observe that in-situ / in-transit visualization is not often used on our current systems in practice. This urgently needs to change, because ultimately the success of exascale systems like JUPITER is not only determined by pure computing power, but by the ability to efficiently and effectively translate this power into scientific progress - and data visualization is a crucial method on the way to achieving this.
+      </div>
       </td>
       </tr>
       </table>
