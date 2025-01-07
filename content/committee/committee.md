@@ -32,6 +32,7 @@ organizers:
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
       item:
-        - TBD
+        - title: TBD
+          affiliation: TBD
 
 ---
