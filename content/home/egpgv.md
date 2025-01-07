@@ -2,7 +2,7 @@
 widget: egpgv_hero
 headless: true
 weight: 10
-title: WELCOME TO EGPGV 2024
+title: WELCOME TO EGPGV 2025
 hero_media:
 # cta:
 #   label: EuroVis Webpage
@@ -19,10 +19,10 @@ design:
 #   css_class: fullscreen
 ---
 
-Odense Denmark, 2024-05-27
+Luxembourg City, Luxembourg, 2025-06-02
 
-EGPGV 2024 is co-located with EuroVis 2024.
-Please find information on the venue, accommodation, and registration on
+EGPGV 2025 is co-located with EuroVis 2025.
+Please find information on the venue, accommodation, and registration on www.eurovis.org
 
 <!--Custom spacing-->
 <!-- <div class="mb-3"></div> -->

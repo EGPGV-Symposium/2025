@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: EGPGV'24
+  - name: EGPGV'25
     url: '/'
     weight: 10
   - name: Program
@@ -19,9 +19,6 @@ main:
   - name: Submission
     url: 'submission/'
     weight: 50
-  - name: FAQ
-    url: 'faq/'
-    weight: 60
   - name: Legal Notice
     url: 'legal/'
     weight: 70
