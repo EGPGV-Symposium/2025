@@ -3,7 +3,7 @@ widget: experience
 headless: true
 weight: 30
 title: Program
-subtitle: '2025-06-02 &middot; Odense, Denmark <br/>Times: CEST'
+subtitle: '2025-06-02 &middot; Luxembourg City, Luxembourg <br/>Times: CEST'
 design:
   spacing: { padding: ["4em", "0", "2em", "0"] }
 date_format: '15:04'
