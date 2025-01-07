@@ -26,8 +26,8 @@ organizers:
     - title: STUDENT PROGRAM CHAIR
       weight: 3
       item:
-        - title: -
-          affiliation: -
+        - title: TBD
+          affiliation: TBD
           weight: 1
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
