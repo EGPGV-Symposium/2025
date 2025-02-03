@@ -45,8 +45,8 @@ Submission types:
 
 Important Dates:
 
-Abstract Deadline: February 3, 2025\
-Submission Deadline: February 7, 2025
+Abstract Deadline: February 17, 2025 (extended!)\
+Submission Deadline: February 24, 2025 (extended!)
 
 If you would like more information, please don't hesitate to contact the Program Co-Chairs via papers@egpgv.org.
 
