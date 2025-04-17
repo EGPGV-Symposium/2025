@@ -32,7 +32,51 @@ organizers:
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
       item:
-        - title: TBD
-          affiliation: TBD
+        - title: Lucas Givord
+          affiliation: Kitware SAS, France
+        - title: Patrick Gralka
+          affiliation: University of Stuttgart, Germany
+        - title: Markus Flatken
+          affiliation: German Aerospace Center (DLR), Germany
+        - title: Federico Iuricich
+          affiliation: Clemson University, United States
+        - title: Jefferson Amstutz
+          affiliation: NVIDIA, United States
+        - title: Joao Barbosa
+          affiliation: VSB - TUO, Czech Republic
+        - title: James Kress
+          affiliation: KAUST, Saudi Arabia
+        - title: Paul Rosen
+          affiliation: University of Utah, United States & University of South Florida, United States
+        - title: Helen-Nicole Kostis
+          affiliation: USRA/GESTAR NASA/GSFC, United States
+        - title: Roxana Bujack
+          affiliation: Los Alamos National Laboratory, United States
+        - title: Guilherme Schardong
+          affiliation: University of Coimbra, Portugal
+        - title: Chaoli Wang
+          affiliation: University of Notre Dame, United States
+        - title: Nicole Marsaglia
+          affiliation: Lawrence Livermore National Laboratory, United States
+        - title: Andres Sewell
+          affiliation: Utah State University, United States & Argonne National Laboratory, United States
+        - title: Hank Childs
+          affiliation: University of Oregon, United States
+        - title: Abhishek Yenpure
+          affiliation: University of Oregon, United States & Kitware, United States
+        - title: Qi Wu
+          affiliation: NVIDIA, United States
+        - title: Thomas Theussl
+          affiliation: Consivi KG, Austria & KAUST, Saudi Arabia
+        - title: Jiaying Liu
+          affiliation: University of Southern Indiana, United States
+        - title: Filip Sadlo
+          affiliation: Heidelberg University, Germany
+        - title: Joseph Insley
+          affiliation: Argonne National Laboratory, United States & Northern Illinois University, United States
+        - title: Victor Mateevitsi
+          affiliation: Argonne National Laboratory, United States & University of Illinois Chicago, United States
+        - title: Johansell Villalobos
+          affiliation: CeNAT, Costa Rica
 
 ---
