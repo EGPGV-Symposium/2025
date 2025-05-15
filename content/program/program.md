@@ -12,6 +12,8 @@ experience:
     date_start: '2025-06-02T09:00:00'
     date_end: '2025-06-02T09:15:00'
   - title: 'Keynote<br/><span style="font-size:11.0pt">François Mazen, Kitware Europe</span>'
+    date_start: '2025-06-02T09:15:00'
+    date_end: '2025-06-02T10:15:00'
     description: |
       <table>
       <tr>
@@ -26,17 +28,32 @@ experience:
       </td>
       </tr>
       </table>
-    date_start: '2025-06-02T09:15:00'
-    date_end: '2025-06-02T10:15:00'
-  - title: Paper Session 1
+  - title: 'Best Paper Session<br/><span style="font-size:11.0pt">Session Chair: TBD</span>'
     date_start: '2025-06-02T10:15:00'
     date_end: '2025-06-02T10:40:00'
+    description: |
+      <table>
+      <tr>
+      <td>
+      <div style="font-size:20px;padding-left:30px;">
+      <span style="text-decoration:underline">Presenter</span>, Author, ...:  
+      </div>
+      </br>
+      <div style="font-size:20px;padding-left:30px;">
+      Title
+      </div>
+      </td>
+      </tr>
+      </table>
   - title: Coffee Break
     date_start: '2025-06-02T10:40:00'
     date_end: '2025-06-02T11:10:00'
-  - title: Paper Session 2
+  - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: TBD</span>'
     date_start: '2025-06-02T11:10:00'
     date_end: '2025-06-02T12:25:00'
+    description: |
+      * 10:40-11:00: <span style="text-decoration:underline">Presenter</span>, Author:<br/>
+        _Title_
   - title: Closing
     date_start: '2025-06-02T12:25:00'
     date_end: '2025-06-02T12:40:00'
