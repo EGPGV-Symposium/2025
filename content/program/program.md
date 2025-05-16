@@ -28,7 +28,7 @@ experience:
       </td>
       </tr>
       </table>
-  - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: TBD</span>'
+  - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: Steffen Frey</span>'
     date_start: '2025-06-02T10:15:00'
     date_end: '2025-06-02T10:40:00'
     description: |
@@ -48,7 +48,7 @@ experience:
   - title: Coffee Break
     date_start: '2025-06-02T10:40:00'
     date_end: '2025-06-02T11:10:00'
-  - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: TBD</span>'
+  - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: Roxana Bujack</span>'
     date_start: '2025-06-02T11:10:00'
     date_end: '2025-06-02T12:25:00'
     description: |
