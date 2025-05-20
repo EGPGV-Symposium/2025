@@ -21,7 +21,7 @@ organizers:
           affiliation: Argonne National Laboratory, USA
           weight: 1
         - title: Charles Gueunet 
-          affiliation:  Kitware, France
+          affiliation:  ICON Technology & Process Consulting, France
           weight: 2
     - title: STUDENT PROGRAM CHAIR
       weight: 3
